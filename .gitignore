@@ -1,0 +1,9 @@
+*.exe
+*.zip
+*.py
+.env*
+settings.json
+glossary.json
+src/
+tools/
+tests/

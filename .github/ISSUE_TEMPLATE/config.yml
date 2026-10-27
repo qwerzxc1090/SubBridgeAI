@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 사용자 후기·질문·개선 요청 / Community discussions
+    url: https://github.com/qwerzxc1090/SubBridgeAI/discussions
+    about: 사용 후기와 사용 방법 질문, 기능 제안은 게시판에서 나눠 주세요. 오류 신고는 Issue 양식을 이용하세요.
+  - name: 보안 취약점 비공개 신고
+    url: https://github.com/qwerzxc1090/SubBridgeAI/security/advisories/new
+    about: API 키 노출 등 민감한 보안 문제는 이 경로로 알려 주세요.

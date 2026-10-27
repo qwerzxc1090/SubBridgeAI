@@ -1,0 +1,57 @@
+SubBridgeAI Freeware License Agreement
+Version 1.0, 2026-08-22
+
+Copyright (c) 2026 안김 소프트. All rights reserved.
+
+1. License grant
+안김 소프트 ("Licensor") grants an end user a limited, revocable, non-exclusive,
+non-transferable license to install and use an unmodified official executable of
+SubBridgeAI free of charge for lawful personal or business purposes.
+
+2. Restrictions
+Except where applicable law expressly permits and does not allow contractual
+restriction, the user may not modify, adapt, translate, reverse engineer,
+decompile, disassemble, repackage, sell, rent, sublicense, mirror, redistribute,
+or make derivative works of SubBridgeAI. Backup copies solely for the licensed
+user's own recovery are permitted. The name, logo, icon, and other branding of
+SubBridgeAI and 안김 소프트 may not be used to imply endorsement.
+
+3. Source availability
+Any source code made publicly viewable is provided only for transparency,
+security review, and reference. Public visibility does not grant permission to
+compile, modify, copy, publish, or redistribute it. No open-source license is
+granted.
+
+4. Third-party services and components
+SubBridgeAI can transmit user-selected content to third-party AI services using
+credentials supplied by the user. The user is responsible for the service
+provider's terms, charges, quotas, age requirements, and authority to transmit
+the content. Third-party components included with the executable remain subject
+to their respective licenses identified in THIRD_PARTY_NOTICES.md.
+
+5. Ownership
+SubBridgeAI is licensed, not sold. All rights not expressly granted are reserved
+by the Licensor.
+
+6. Disclaimer
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+"AS IS" WITHOUT WARRANTIES OF ANY KIND. AI-GENERATED TRANSLATIONS MAY BE
+INACCURATE. THE USER MUST REVIEW RESULTS BEFORE PUBLICATION OR OTHER RELIANCE.
+
+7. Limitation of liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR IS NOT LIABLE
+FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR FOR
+LOSS OF DATA, PROFITS, API CREDITS, OR BUSINESS ARISING FROM USE OF THE SOFTWARE.
+
+8. Termination
+This license terminates automatically upon a material breach. On termination,
+the user must stop using and delete all copies of SubBridgeAI, except where
+retention is required by law.
+
+9. Entire agreement and applicable law
+This agreement and the notices distributed with SubBridgeAI form the agreement
+for the software. Mandatory consumer rights and other non-waivable rights under
+applicable law are not excluded.
+
+By installing or using SubBridgeAI, the user accepts this agreement. If the user
+does not accept it, the user must not use the software.
