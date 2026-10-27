@@ -7,7 +7,7 @@
 
 [공개 베타 v0.1.0-beta.5 다운로드 / Download public beta](https://github.com/qwerzxc1090/SubBridgeAI/releases/tag/v0.1.0-beta.5)
 
-[후기·질문·개선 요청 / Community discussions](https://github.com/qwerzxc1090/SubBridgeAI/discussions) · [게시판 이용 안내 / Start here](https://github.com/qwerzxc1090/SubBridgeAI/discussions/6)
+[후기·질문·개선 요청 / Community discussions](https://github.com/qwerzxc1090/SubBridgeAI/discussions) · [게시판 이용 안내 / Start here](https://github.com/qwerzxc1090/SubBridgeAI/discussions/1)
 
 [후기 작성 / Share feedback][discussion-feedback] · [질문하기 / Ask a question][discussion-question] · [개선 제안 / Suggest an idea][discussion-idea]
 
@@ -188,7 +188,7 @@ Google 또는 OpenAI로 전송됩니다. 전송 권한이 있는 자료만 사�
 - [사용자 후기](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/사용자-후기): 사용 경험과 불편한 점 공유
 - [질문·답변](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/질문-답변): 사용 방법 문의와 답변 채택
 - [개선 요청](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/개선-요청): 기능·사용성 개선 제안
-- [공지·이용 안내](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/공지-이용-안내): 업데이트와 [처음 오신 분을 위한 안내](https://github.com/qwerzxc1090/SubBridgeAI/discussions/6)
+- [공지·이용 안내](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/공지-이용-안내): 업데이트와 [처음 오신 분을 위한 안내](https://github.com/qwerzxc1090/SubBridgeAI/discussions/1)
 
 글·댓글 작성에는 GitHub 로그인이 필요합니다. 실행 오류와 재현 가능한 버그는 아래 Issues 경로를 이용하세요.
 
@@ -400,7 +400,7 @@ current settings and check compatibility with that version.
 ### 11. Troubleshooting and feedback
 
 Share feedback, questions, and ideas in [Discussions](https://github.com/qwerzxc1090/SubBridgeAI/discussions).
-Read the pinned [community guide / Start here](https://github.com/qwerzxc1090/SubBridgeAI/discussions/6) first.
+Read the pinned [community guide / Start here](https://github.com/qwerzxc1090/SubBridgeAI/discussions/1) first.
 
 - [사용자 후기 / User feedback](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/사용자-후기)
 - [질문·답변 / Questions and answers](https://github.com/qwerzxc1090/SubBridgeAI/discussions/categories/질문-답변)
