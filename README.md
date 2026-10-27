@@ -3,6 +3,11 @@
 > 공개 배포 전용 저장소입니다. 프로그램 소스 코드는 포함하지 않습니다.
 > This repository contains downloads and user documentation only; application source code is not included.
 
+[한국어·영어 사용 설명서 ZIP / User guides ZIP](https://github.com/qwerzxc1090/SubBridgeAI/releases/download/v0.1.0-beta.5/SubBridgeAI-v0.1.0-beta.5-user-guides-ko-en.zip)
+
+> 릴리스 하단의 `Source code (zip/tar.gz)`는 GitHub가 자동 표시하는 저장소 문서 묶음입니다. 프로그램 소스가 아닙니다. 설명서는 위의 **사용 설명서 ZIP**을 이용하세요.
+> GitHub automatically labels repository archives as `Source code`. These contain repository documents only. Use the **User guides ZIP** above for the manuals.
+
 [한국어 사용 설명서](#한국어-사용-설명서) · [English user guide](#english-user-guide)
 
 [공개 베타 v0.1.0-beta.5 다운로드 / Download public beta](https://github.com/qwerzxc1090/SubBridgeAI/releases/tag/v0.1.0-beta.5)
